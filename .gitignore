@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Data folder
+# Data folder and data
 SourceData/
 IntermediateProducts/
+*.csv

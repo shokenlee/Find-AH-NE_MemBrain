@@ -132,3 +132,6 @@ dmypy.json
 SourceData/
 IntermediateProducts/
 *.csv
+
+# DS store
+.DS_Store

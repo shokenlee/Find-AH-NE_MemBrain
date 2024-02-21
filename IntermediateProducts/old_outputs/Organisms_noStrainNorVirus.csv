@@ -1,0 +1,528 @@
+,Organism
+0,Homo sapiens (Human)
+2,Methanococcus voltae
+5,Danio rerio (Zebrafish) (Brachydanio rerio)
+7,Mus musculus (Mouse)
+8,Rattus norvegicus (Rat)
+12,Arabidopsis thaliana (Mouse-ear cress)
+13,Chlamydomonas reinhardtii (Chlamydomonas smithii)
+14,Oryza sativa subsp. japonica (Rice)
+15,Thraustochytrium sp.
+16,Glycine max (Soybean) (Glycine hispida)
+17,Euglena viridis (Cercaria viridis)
+18,Euglena myxocylindracea
+20,Drosophila melanogaster (Fruit fly)
+21,Dictyostelium discoideum (Slime mold)
+22,Caenorhabditis elegans
+32,Canis lupus familiaris (Dog) (Canis familiaris)
+33,Gibberella fujikuroi (Bakanae and foot rot disease fungus) (Fusarium fujikuroi)
+35,Escherichia coli O157:H7
+41,Salmonella typhi
+42,Yersinia pestis
+45,Coturnix japonica (Japanese quail) (Coturnix coturnix japonica)
+46,Gallus gallus (Chicken)
+47,Oryzias latipes (Japanese rice fish) (Japanese killifish)
+48,Leucoraja erinacea (Little skate) (Raja erinacea)
+51,Xenopus laevis (African clawed frog)
+57,Komagataella pastoris (Yeast) (Pichia pastoris)
+58,Schizophyllum commune (Split gill fungus)
+62,Rhizobium leguminosarum bv. trifolii
+63,Streptomyces antibioticus
+65,Bacillus cereus
+66,Staphylococcus xylosus
+67,Pisum sativum (Garden pea)
+68,Hyaloraphidium curvatum (Lower fungus)
+69,Bos taurus (Bovine)
+70,Ovis aries (Sheep)
+71,Sus scrofa (Pig)
+72,Episoriculus fumidus (Taiwan brown-toothed shrew) (Soriculus fumidus)
+73,Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)
+74,Pan troglodytes (Chimpanzee)
+75,Asterias rubens (Common European starfish) (Asterias vulgaris)
+76,Culex pipiens (House mosquito)
+91,Gamma-proteobacterium Hot 75m4
+92,Klebsiella pneumoniae
+93,Cereibacter sphaeroides (Rhodobacter sphaeroides)
+95,Fusarium sporotrichioides
+102,Pseudomonas stutzeri (Pseudomonas perfectomarina)
+104,Escherichia coli
+106,Rhizobium meliloti (Ensifer meliloti) (Sinorhizobium meliloti)
+107,Bdellovibrio phage phiMH2K (Bacteriophage phiMH2K)
+108,Myxine glutinosa (Atlantic hagfish)
+109,Manduca sexta (Tobacco hawkmoth) (Tobacco hornworm)
+110,Plasmodium berghei
+111,Phanerodontia chrysosporium (White-rot fungus) (Sporotrichum pruinosum)
+115,Takifugu rubripes (Japanese pufferfish) (Fugu rubripes)
+120,Chlamydia pneumoniae (Chlamydophila pneumoniae)
+124,Enterococcus faecalis (Streptococcus faecalis)
+126,Pseudomonas syringae pv. actinidiae
+127,Zea mays (Maize)
+128,Bombyx mori (Silk moth)
+129,Cochliomyia hominivorax (Primary screw-worm) (Lucilia hominivorax)
+130,Arbacia lixula (Black urchin) (Echinus lixula)
+131,Limulus polyphemus (Atlantic horseshoe crab)
+132,Lepocinclis buetschlii
+133,Phacus acuminatus
+134,Oenothera elata subsp. hookeri (Hooker's evening primrose) (Oenothera hookeri)
+135,Mesostigma viride (Green alga)
+136,Equus caballus (Horse)
+137,Ceratitis capitata (Mediterranean fruit fly) (Tephritis capitata)
+138,Candida albicans (Yeast)
+146,Cavia porcellus (Guinea pig)
+148,Pseudomonas oleovorans
+149,Thermus thermophilus
+151,Lactobacillus casei
+153,Bacillus anthracis
+155,Neisseria gonorrhoeae
+158,Volvox carteri (Green alga)
+159,Haematococcus lacustris (Green alga) (Haematococcus pluvialis)
+160,Glycyrrhiza echinata (Licorice)
+161,Prototheca wickerhamii
+162,Nephroselmis olivacea (Green alga)
+163,Cyanidium caldarium (Red alga)
+164,Plasmodium falciparum (isolate 3D7)
+166,Coprinus comatus (Shaggy mane)
+170,Pseudomonas putida (Arthrobacter siderocapsulatus)
+171,Komagataeibacter xylinus (Gluconacetobacter xylinus)
+174,Enterococcus faecium (Streptococcus faecium)
+175,Rhizobium leguminosarum bv. viciae
+178,Pseudoalteromonas phage PM2 (Bacteriophage PM2)
+179,Chelonia mydas (Green sea-turtle) (Chelonia agassizi)
+180,Toxoplasma gondii
+181,Mortierella alpina (Oleaginous fungus) (Mortierella renispora)
+191,Salmonella typhimurium
+193,Physcomitrium patens (Spreading-leaved earth moss) (Physcomitrella patens)
+194,Papio hamadryas (Hamadryas baboon)
+195,Fusarium heterosporum
+198,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)
+199,Pinctada imbricata (Atlantic pearl-oyster) (Pinctada martensii)
+202,Catharanthus roseus (Madagascar periwinkle) (Vinca rosea)
+203,Strongylocentrotus purpuratus (Purple sea urchin)
+204,Bison bison (American bison) (Bos bison)
+205,Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)
+206,Heterololigo bleekeri (Spear squid) (Loligo bleekeri)
+207,Metridium senile (Brown sea anemone) (Frilled sea anemone)
+208,Bacillus phage SPP1 (Bacteriophage SPP1)
+209,Capsicum annuum (Capsicum pepper)
+215,Xanthomonas phage phiLf (Bacteriophage phi-Lf)
+220,Mycobacterium phage D29 (Mycobacteriophage D29)
+221,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+225,Legionella pneumophila
+229,Tetraodon fluviatilis (Green pufferfish) (Chelonodon fluviatilis)
+230,Lymnaea stagnalis (Great pond snail) (Helix stagnalis)
+231,Macaca radiata (Bonnet macaque)
+232,Oryctolagus cuniculus (Rabbit)
+233,Guillardia theta (Cryptophyte) (Cryptomonas phi)
+234,Orobanche minor (Small broomrape) (Hellroot)
+235,Lycodon semicarinatus (Ryukyu odd-tooth snake) (Eumesodon semicarinatus)
+236,Pelomedusa subrufa (African side-necked turtle)
+237,Escherichia phage If1 (Bacteriophage If1)
+242,Vibrio alginolyticus
+249,Rhipicephalus sanguineus (Brown dog tick) (Ixodes sanguineus)
+250,Aspergillus amstelodami
+252,Tetronarce californica (Pacific electric ray) (Torpedo californica)
+253,Staphylococcus aureus
+263,Escherichia phage MS2 (Bacteriophage MS2)
+264,Pseudomonas phage Pf1 (Bacteriophage Pf1)
+265,Xanthomonas phage Xf (Bacteriophage Xf)
+266,Pseudomonas phage Pf3 (Bacteriophage Pf3)
+267,Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)
+268,Salmonella phage IKe (Bacteriophage IKe)
+269,Enterobacteria phage fd (Bacteriophage fd)
+270,Escherichia phage lambda (Bacteriophage lambda)
+271,Escherichia phage T7 (Bacteriophage T7)
+274,Blastochloris viridis (Rhodopseudomonas viridis)
+277,Trypanosoma brucei brucei
+278,Citrobacter freundii
+280,Plasmodium falciparum
+284,Nicotiana tabacum (Common tobacco)
+290,Pseudomonas aeruginosa
+292,Rhizobium radiobacter (Agrobacterium tumefaciens) (Agrobacterium radiobacter)
+293,Enterobacteria phage GA (Bacteriophage GA)
+295,Oenothera berteroana (Bertero's evening primrose)
+297,Pseudomonas phage phi6 (Bacteriophage phi-6)
+299,Drosophila yakuba (Fruit fly)
+303,Bacillus phage PZA (Bacteriophage PZA)
+305,Enterobacteria phage T4 (Bacteriophage T4)
+311,Salmonella phage P22 (Bacteriophage P22)
+314,Shigella flexneri
+315,Lactococcus lactis subsp. lactis (Streptococcus lactis)
+316,Synechococcus elongatus
+320,Streptococcus pyogenes
+322,Staphylococcus epidermidis
+323,Streptococcus agalactiae
+325,Pseudomonas fluorescens
+329,Oryza sativa (Rice)
+331,Dictyostelium citrinum (Slime mold)
+336,Dickeya chrysanthemi (Pectobacterium chrysanthemi) (Erwinia chrysanthemi)
+340,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)
+341,Coffea arabica (Arabian coffee)
+349,Passalora fulva (Tomato leaf mold) (Cladosporium fulvum)
+350,Bremia lactucae (Lettuce downy mildew)
+351,Plasmopara viticola (Downy mildew of grapevine) (Botrytis viticola)
+354,Selaginella moellendorffii (Spikemoss)
+355,Marchantia polymorpha (Liverwort) (Marchantia aquatica)
+356,Pteridium aquilinum subsp. aquilinum (Bracken fern)
+357,Chlorokybus atmophyticus (Soil alga)
+359,Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)
+363,Papaver somniferum (Opium poppy)
+365,Thermosynechococcus vulcanus (Synechococcus vulcanus)
+371,Rhizobium leguminosarum
+376,Arbacia punctulata (Punctuate sea urchin)
+377,Halorhodospira halochloris (Ectothiorhodospira halochloris)
+378,Oxybasis rubra (Red goosefoot) (Chenopodium rubrum)
+379,Tetrahymena pyriformis
+380,Patiria pectinifera (Starfish) (Asterina pectinifera)
+381,Euglena gracilis
+382,Bacillus licheniformis
+383,Spinacia oleracea (Spinach)
+384,Leishmania donovani
+389,Paracentrotus lividus (Common sea urchin)
+392,Felis catus (Cat) (Felis silvestris catus)
+394,Daucus carota (Wild carrot)
+396,Streptomyces rimosus
+397,Rhizobium leguminosarum bv. phaseoli
+398,Hordeum vulgare (Barley)
+399,Rhodospirillum rubrum
+401,Mycoplasma hyorhinis
+402,Actinobacillus pleuropneumoniae (Haemophilus pleuropneumoniae)
+403,Enterobacteria phage I2-2 (Bacteriophage I2-2)
+404,Leishmania tarentolae (Sauroleishmania tarentolae)
+405,Paramecium tetraurelia
+406,Beta vulgaris (Sugar beet)
+412,Rhodobacter capsulatus (Rhodopseudomonas capsulata)
+413,Schistosoma mansoni (Blood fluke)
+415,Mannheimia haemolytica (Pasteurella haemolytica)
+418,Cyanophora paradoxa
+419,Helianthus annuus (Common sunflower)
+421,Plasmodium falciparum (isolate NF54)
+426,Alcaligenes sp.
+427,Clostridium pasteurianum
+428,Artemia salina (Brine shrimp)
+429,Haemophilus influenzae
+430,Coxiella burnetii
+442,Entamoeba histolytica
+443,Serratia marcescens
+447,Giardia intestinalis (Giardia lamblia)
+448,Propionigenium modestum
+449,Lactococcus lactis subsp. cremoris (Streptococcus cremoris)
+451,Streptomyces lividans
+455,Plasmodium falciparum (isolate FC27 / Papua New Guinea)
+456,Schistocerca americana (American grasshopper)
+457,Lysinibacillus sphaericus (Bacillus sphaericus)
+458,Proteus mirabilis
+459,Acidithiobacillus ferrooxidans (Thiobacillus ferrooxidans)
+463,Ictalurus punctatus (Channel catfish) (Silurus punctatus)
+464,Phaseolus vulgaris (Kidney bean) (French bean)
+465,Burkholderia cepacia (Pseudomonas cepacia)
+467,Ascaris suum (Pig roundworm) (Ascaris lumbricoides)
+468,Pisaster ochraceus (Ochre sea star) (Asterias ochracea)
+472,Chlamydia trachomatis
+473,Panax ginseng (Korean ginseng)
+474,Prochlorothrix hollandica
+479,Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)
+480,Enterobacteria phage PRD1 (Bacteriophage PRD1)
+484,Dunaliella salina (Green alga) (Protococcus salinus)
+485,Schistosoma japonicum (Blood fluke)
+486,Spiroplasma citri
+490,Acidianus ambivalens (Desulfurolobus ambivalens)
+491,Brassica napus (Rape)
+493,Lactobacillus acidophilus
+494,Amia calva (Bowfin)
+495,Drosophila mauritiana (Fruit fly)
+496,Paracoccus denitrificans
+497,Sinorhizobium sp.
+498,Pseudoalteromonas haloplanktis (Alteromonas haloplanktis)
+499,Dictyota dichotoma
+500,Exophiala dermatitidis (Black yeast) (Wangiella dermatitidis)
+506,Pectobacterium carotovorum subsp. carotovorum (Erwinia carotovora subsp. carotovora)
+507,Mouse intracisternal a-particle MIAE (IAP-MIAE)
+508,Streptomyces peucetius
+512,Bacillus acidopullulyticus
+513,Bacillus subtilis
+514,Rhizobium fredii (Sinorhizobium fredii)
+516,Anopheles quadrimaculatus (Common malaria mosquito)
+517,Pseudomonas syringae pv. syringae
+519,Apis mellifera ligustica (Common honeybee) (Italian honeybee)
+521,Rhodoblastus acidophilus (Rhodopseudomonas acidophila)
+523,Eikenella corrodens
+524,Erwinia amylovora (Fire blight bacteria)
+525,Lacticaseibacillus rhamnosus (Lactobacillus rhamnosus)
+529,Pediococcus acidilactici
+530,Streptomyces griseus
+532,Yersinia enterocolitica
+533,Thermoanaerobacterium thermosulfurigenes (Clostridium thermosulfurogenes)
+535,Orientia tsutsugamushi (Rickettsia tsutsugamushi)
+537,Pyrenomonas salina
+539,Saccharomyces cerevisiae (Baker's yeast)
+540,Streptomyces glaucescens
+541,Stigmatella aurantiaca
+542,Didelphis virginiana (North American opossum) (Didelphis marsupialis virginiana)
+543,Brassica campestris (Field mustard)
+544,Pinus thunbergii (Japanese black pine) (Pinus thunbergiana)
+546,Aeromonas hydrophila
+547,Caenorhabditis briggsae
+548,Geodia cydonium (Sponge)
+550,Acholeplasma phage L2 (Bacteriophage L2)
+551,Streptomyces alboniger
+552,Leishmania amazonensis
+556,Pediococcus pentosaceus
+557,Anabaena cylindrica
+558,Azospirillum brasilense
+559,Providencia stuartii
+560,Saprolegnia monoica
+561,Cercospora nicotianae (Barn spot disease fungus)
+562,Albinaria caerulea (Land snail)
+563,Chondrus crispus (Carrageen Irish moss) (Polymorpha crispa)
+564,Wickerhamomyces canadensis (Yeast) (Pichia canadensis)
+565,Candida parapsilosis (Yeast)
+566,Trieres chinensis (Marine centric diatom) (Odontella sinensis)
+567,Schwanniomyces occidentalis (Yeast) (Debaryomyces occidentalis)
+568,Podospora anserina (Pleurage anserina)
+569,Porphyra purpurea (Red seaweed) (Ulva purpurea)
+571,Escherichia phage P2 (Bacteriophage P2)
+573,Pseudomonas fluorescens biotype C
+579,Papio cynocephalus (Yellow baboon)
+580,Vibrio harveyi (Beneckea harveyi)
+581,Myxococcus xanthus
+582,Bacillus caldolyticus
+584,Chlorella vulgaris (Green alga)
+586,Mycolicibacterium smegmatis (Mycobacterium smegmatis)
+599,Gorilla gorilla gorilla (Western lowland gorilla)
+602,Branchiostoma floridae (Florida lancelet) (Amphioxus)
+603,Pinus koraiensis (Korean pine)
+604,Natronomonas pharaonis (Natronobacterium pharaonis)
+605,Rubrivivax gelatinosus (Rhodocyclus gelatinosus) (Rhodopseudomonas gelatinosa)
+608,Reclinomonas americana
+609,Rhodocyclus tenuis (Rhodospirillum tenue)
+611,Lactobacillus amylovorus
+612,Linum usitatissimum (Flax) (Linum humile)
+614,Thermus phage PH75 (Bacteriophage PH75)
+615,Mastigocladus laminosus (Fischerella sp.)
+616,Streptomyces exfoliatus (Streptomyces hydrogenans)
+617,Ginglymostoma cirratum (Nurse shark) (Squalus cirratus)
+619,Enterococcus phage phiEF24C (Enterococcus bacteriophage phi-EF24C)
+620,Apis mellifera (Honeybee)
+621,Crassostrea gigas (Pacific oyster) (Crassostrea angulata)
+625,Triticum aestivum (Wheat)
+626,Enterobacter agglomerans (Erwinia herbicola) (Pantoea agglomerans)
+627,Vibrio parahaemolyticus
+628,Lactiplantibacillus pentosus (Lactobacillus pentosus)
+630,Magnetospirillum molischianum (Rhodospirillum molischianum)
+634,Mytilus edulis (Blue mussel)
+635,Salmonella muenchen
+638,Streptomyces mycarofaciens
+641,Ostreococcus tauri
+643,Plasmodium yoelii yoelii
+644,Craterostigma plantagineum (Blue gem) (Torenia plantagineum)
+648,Pseudomonas syringae pv. tomato
+649,Antithamnion sp. (Red alga)
+653,Shigella dysenteriae
+656,Chlamydomonas moewusii (Chlamydomonas eugametos)
+662,Amycolatopsis lactamdurans (Nocardia lactamdurans)
+665,Yersinia pseudotuberculosis
+667,Piper cenocladum (Ant piper)
+669,Stigeoclonium helveticum (Green alga)
+681,Azotobacter vinelandii
+682,Brassica oleracea var. viridis (Flowering kale) (Brassica oleracea var. acephala)
+684,Argas monolakensis (Mono lake bird tick)
+695,Medicago truncatula (Barrel medic) (Medicago tribuloides)
+698,Pongo pygmaeus (Bornean orangutan)
+706,Alkalimonas amylolytica
+712,Epichloe festucae var. lolii (Neotyphodium lolii) (Acremonium lolii)
+714,Anopheles albimanus (New world malaria mosquito)
+715,Aedes aegypti (Yellowfever mosquito) (Culex aegypti)
+722,Chara vulgaris (Common stonewort)
+728,Musa acuminata (Banana) (Musa cavendishii)
+735,Tetradesmus obliquus (Green alga) (Acutodesmus obliquus)
+737,Encephalitozoon intestinalis (Microsporidian parasite)
+744,Pyropia yezoensis (Susabi-nori) (Porphyra yezoensis)
+745,Oltmannsiellopsis viridis (Marine flagellate) (Oltmannsiella viridis)
+748,Drosophila virilis (Fruit fly)
+749,Cornu aspersum (Brown garden snail) (Helix aspersa)
+750,Neospora caninum (Coccidian parasite)
+752,Trypanosoma congolense
+753,Macaca fuscata fuscata (Japanese macaque)
+755,Drosophila pseudoobscura pseudoobscura (Fruit fly)
+761,Elephas maximus (Indian elephant)
+785,Anser caerulescens (Snow goose) (Chen caerulescens)
+788,Zygnema circumcarinatum (Green alga)
+789,Staurastrum punctulatum (Green alga) (Cosmoastrum punctulatum)
+790,Trypanoplasma borreli
+791,Fasciola hepatica (Liver fluke)
+792,Symphalangus syndactylus (Siamang) (Hylobates syndactylus)
+793,Lumbricus terrestris (Common earthworm)
+794,Petromyzon marinus (Sea lamprey)
+795,Theileria parva (East coast fever infection agent)
+796,Dicentrarchus labrax (European seabass) (Morone labrax)
+797,Plasmodium vivax
+798,Acanthamoeba castellanii (Amoeba)
+799,Artemia franciscana (Brine shrimp) (Artemia sanfranciscana)
+800,Bacillus phage B103 (Bacteriophage B103)
+801,Listeria phage A118 (Bacteriophage A118)
+802,Streptococcus phage Cp-1 (Bacteriophage Cp-1)
+803,Lactococcus phage r1t (Bacteriophage r1t)
+804,Escherichia phage Mu (Bacteriophage Mu)
+818,Canis lupus (Gray wolf)
+820,Callithrix jacchus (White-tufted-ear marmoset)
+825,Tupiella akineta (Green alga) (Pseudendoclonium akinetum)
+826,Solanum pimpinellifolium (Currant tomato) (Lycopersicon pimpinellifolium)
+827,Macrocystis pyrifera (Giant kelp) (Fucus pyrifer)
+828,Petunia integrifolia (Violet-flowered petunia) (Salpiglossis integrifolia)
+829,Cocos nucifera (Coconut palm)
+830,Sorghum bicolor (Sorghum) (Sorghum vulgare)
+831,Gluconacetobacter liquefaciens (Acetobacter liquefaciens)
+832,Alcaligenes xylosoxydans xylosoxydans (Achromobacter xylosoxidans)
+833,Aneurinibacillus migulanus (Bacillus migulanus)
+834,Ralstonia solanacearum (Pseudomonas solanacearum)
+835,Flavobacterium psychrophilum
+836,Chlorobaculum thiosulfatiphilum (Chlorobium limicola f.sp. thiosulfatophilum)
+845,Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon nigroviridis)
+851,Thalassiosira pseudonana (Marine diatom) (Cyclotella nana)
+852,Emiliania huxleyi (Pontosphaera huxleyi)
+856,Streptococcus gordonii
+858,Uncultured marine bacterium 66A03
+859,Theileria annulata
+866,Methylophilus methylotrophus (Bacterium W3A1)
+867,Oxalobacter formigenes
+868,Paracoccus pantotrophus (Thiosphaera pantotropha)
+869,Xanthomonas campestris pv. campestris
+872,Comamonas testosteroni (Pseudomonas testosteroni)
+873,Cryptosporidium hominis
+882,Notomys alexis (Spinifex hopping mouse)
+883,Alternaria solani
+895,Phytophthora infestans (Potato late blight agent) (Botrytis infestans)
+896,Huperzia lucidula (Shining clubmoss) (Lycopodium lucidulum)
+906,Mesocricetus auratus (Golden hamster)
+925,Fragaria ananassa (Strawberry) (Fragaria chiloensis x Fragaria virginiana)
+932,Gracilaria tenuistipitata var. liui (Red alga)
+944,Brassica oleracea (Wild cabbage)
+945,Pinus taeda (Loblolly pine)
+954,Leptosphaeria maculans (Blackleg fungus) (Phoma lingam)
+961,Streptomyces vinaceus
+962,Escherichia phage T1 (Bacteriophage T1)
+963,Pectobacterium parmentieri
+973,Anopheles gambiae (African malaria mosquito)
+979,Blochmannia floridanus
+982,Clostridium beijerinckii (Clostridium MP)
+995,Taxus cuspidata (Japanese yew)
+996,Anthoceros angustus (Hornwort) (Anthoceros formosae)
+1000,Hydra vulgaris (Hydra) (Hydra attenuata)
+1014,Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)
+1016,Wigglesworthia glossinidia brevipalpis
+1021,Paenarthrobacter nicotinovorans (Arthrobacter nicotinovorans)
+1022,Pseudomonas resinovorans
+1026,Tetragenococcus halophilus (Pediococcus halophilus)
+1027,Chaetosphaeridium globosum (Charophycean green alga) (Herposteiron globosum)
+1028,Macaca mulatta (Rhesus macaque)
+1029,Leishmania tropica
+1030,Trichomonas vaginalis
+1031,Dugesia japonica (Planarian)
+1032,Ctenocephalides felis (Cat flea)
+1033,Lecanicillium sp.
+1034,Tetrahymena thermophila
+1038,Emericella variicolor (Aspergillus stellatus)
+1041,Penicillium expansum (Blue mold rot fungus)
+1042,Humulus lupulus (European hop)
+1043,Fusarium oxysporum (Fusarium vascular wilt)
+1044,Cucumis melo (Muskmelon)
+1045,Penicillium crustosum (Blue mold fungus)
+1053,Haloferax gibbonsii
+1054,Calcarisporium arbuscula (Dendryphion arbuscula)
+1055,Aspergillus desertorum (Emericella desertorum)
+1056,Plasmopara halstedii (Downy mildew of sunflower)
+1057,Talaromyces islandicus (Penicillium islandicum)
+1058,Ustilago maydis (Corn smut fungus)
+1059,Thermoanaerobacterium sp.
+1060,Penicillium simplicissimum
+1061,Alternaria alternata (Alternaria rot fungus) (Torula alternata)
+1062,Purpureocillium lilacinum (Paecilomyces lilacinus)
+1063,Sordaria araneosa (Pleurage araneosa)
+1064,Planococcus maritimus
+1065,Penicillium decumbens
+1066,Halomonas zhaodongensis
+1067,Psilocybe cyanescens
+1069,Hypoxylon pulicicidum
+1070,Aspergillus japonicus
+1072,Aspergillus burnettii
+1073,Byssochlamys spectabilis (Paecilomyces variotii)
+1075,Drosophila simulans (Fruit fly)
+1076,Beauveria bassiana (White muscardine disease fungus) (Tritirachium shiotae)
+1083,Papio anubis (Olive baboon)
+1091,Gossypium barbadense (Sea-island cotton) (Egyptian cotton)
+1093,Escherichia coli O1:K1 / APEC
+1096,Streptococcus parasanguinis
+1099,Agrostis stolonifera (Creeping bentgrass)
+1100,Zinnia violacea (Garden zinnia) (Zinnia elegans)
+1128,Oryza sativa subsp. indica (Rice)
+1137,Trichophyton rubrum (Athlete's foot fungus) (Epidermophyton rubrum)
+1138,Leishmania infantum
+1142,Rebecca salina (Marine microalga) (Pavlova salina)
+1177,Gnetum parvifolium (Small-leaved jointfir) (Gnetum scandens var. parvifolium)
+1182,Rhodomonas salina (Cryptomonas salina)
+1193,Pleurastrum terricola (Filamentous green alga) (Leptosira terrestris)
+1204,Cuscuta gronovii (Common dodder)
+1209,Vitis vinifera (Grape)
+1210,Nematostella vectensis (Starlet sea anemone)
+1213,Mus pahari (Gairdner's shrew-mouse) (Coelomys pahari)
+1220,Claviceps fusiformis (Ergot fungus)
+1244,Picea sitchensis (Sitka spruce) (Pinus sitchensis)
+1245,Monosiga brevicollis (Choanoflagellate)
+1260,Elsinoe fawcettii (Citrus scab fungus) (Sphaceloma fawcettii)
+1262,Sophora flavescens (Ku shen)
+1263,Endomicrobium trichonymphae
+1273,Phytoplasma australiense
+1277,Paulinella chromatophora
+1290,Ajellomyces capsulatus (Darling's disease fungus) (Histoplasma capsulatum)
+1296,Oedogonium cardiacum (Filamentous green alga)
+1298,Welwitschia mirabilis (Tree tumbo) (Welwitschia bainesii)
+1304,Acropora millepora (Staghorn coral) (Heteropora millepora)
+1307,Drosophila ananassae (Fruit fly)
+1308,Drosophila erecta (Fruit fly)
+1312,Trichoplax adhaerens (Trichoplax reptans)
+1314,Drosophila persimilis (Fruit fly)
+1315,Drosophila willistoni (Fruit fly)
+1323,Sputnik virophage
+1324,Claviceps purpurea (Ergot fungus) (Sphacelia segetum)
+1328,Salmo salar (Atlantic salmon)
+1338,Azobacteroides pseudotrichonymphae genomovar. CFP2
+1354,Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa)
+1358,Ricinus communis (Castor bean)
+1361,Neosartorya fumigata (Aspergillus fumigatus)
+1362,Pichia angusta (Yeast) (Hansenula polymorpha)
+1363,Pinctada fucata (Akoya pearl oyster) (Pinctada imbricata fucata)
+1391,Physarum polycephalum (Slime mold)
+1399,Brassica rapa subsp. pekinensis (Chinese cabbage) (Brassica pekinensis)
+1402,Carassius auratus (Goldfish)
+1412,Alternaria brassicicola (Dark leaf spot agent)
+1414,Ailuropoda melanoleuca (Giant panda)
+1416,Neisseria mucosa
+1422,Trachipleistophora hominis (Microsporidian parasite)
+1427,Arabidopsis lyrata subsp. lyrata (Lyre-leaved rock-cress)
+1428,Penicillium aethiopicum
+1433,Magnetospirillum magnetotacticum (Aquaspirillum magnetotacticum)
+1440,Kalanchoe daigremontiana (Devil's backbone) (Bryophyllum daigremontianum)
+1449,Penicillium brevicompactum
+1450,Hordeum vulgare subsp. vulgare (Domesticated barley)
+1460,Alteromonas naphthalenivorans
+1465,Trichoderma arundinaceum
+1470,Botryococcus braunii (Green alga)
+1473,Milnesium tardigradum (Water bear) (Tardigrade)
+1475,Rosa hybrid cultivar
+1479,Amphimedon queenslandica (Sponge)
+1485,Aspergillus rugulosus (Emericella rugulosa)
+1487,Malbranchea aurantiaca
+1488,Phomopsis amygdali (Fusicoccum amygdali)
+1489,Aspergillus versicolor
+1490,Solanum tuberosum (Potato)
+1491,Gluconobacter japonicus
+1494,Paramecium primaurelia
+1495,Latimeria chalumnae (Coelacanth)
+1496,Pneumococcus phage Dp-1 (Bacteriophage Dp-1)
+1497,Pseudomonas wisconsinensis
+1498,Malonomonas rubra
+1499,Lactobacillus helveticus (Lactobacillus suntoryeus)
+1503,Struthio camelus (Common ostrich)
+1506,Streptococcus iniae (Streptococcus shiloi)
+1507,Thauera aromatica
+1514,Cynops pyrrhogaster (Japanese fire-bellied newt) (Molge pyrrhogaster)

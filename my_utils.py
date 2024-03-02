@@ -25,10 +25,6 @@ def get_url(url, **kwargs):
     except requests.exceptions.RequestException as e:
         print(f"An unexpected error occurred: {e}")
 
-    # Perform any necessary cleanup here
-    print("Performing cleanup before exiting...")
-    # Cleanup code goes here
-
     # Exit the script
     sys.exit(1)
     

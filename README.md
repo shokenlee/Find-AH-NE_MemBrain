@@ -1,4 +1,4 @@
-# Find MemBrain-predicted AHs in nuclear envelope proteins
+# Find MemBrain-predicted amphipathic helices in nuclear envelope proteins
 
 This is one of the series of the Python scirpts that was used in Figure 1A and S1A of [Lee et al. bioRxiv 2024](https://www.biorxiv.org/content/10.1101/2024.11.14.623600v2).
 Describes the process of MemBrain dataset analysis and its merge with nuclear envelope proteome dataset.
